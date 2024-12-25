@@ -1,4 +1,4 @@
-
+![dashboard](https://github.com/Melodymaifafa/E-commerce_dashboard/blob/main/E-commerce_dashboard1.PNG)
 # Report: Analysis of Factors Behind GMV Decrease for the E-commerce Company
 
 ## **Objective**
